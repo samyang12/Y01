@@ -1,0 +1,10 @@
+{
+  "blobVersion":"1.0",
+  "version":"1.0",
+  "records":[
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"414D5355504F5652"}, "data":{"size":38, "data":"AAAUQU1TVVBPVlKDw0FtZW5kZWQgb3IgU3VwcGxlbWVudGFsAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"59494C434E545900"}, "data":{"size":38, "data":"AAAUWUlMQ05UWQBSw0lMIENvdW50aWVzAAAAAAAAAAAAAAAAAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"59494C504D574954"}, "data":{"size":38, "data":"AAAUWUlMUE1XSVR0w1BheW1lbnQgV2l0aCBGb3JtAAAAAAAAAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"59494C52544E4344"}, "data":{"size":38, "data":"AAAUWUlMUlROQ0RTw1JldHVybiBQcmVwYXJhdGlvbgAAAAAAAAA="}}
+  ]
+}

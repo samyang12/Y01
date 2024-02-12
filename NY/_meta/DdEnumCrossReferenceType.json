@@ -1,0 +1,8 @@
+{
+  "blobVersion":"1.0",
+  "version":"1.0",
+  "records":[
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"4E594C4554544552"}, "data":{"size":38, "data":"AAAUTllMRVRURVLg3UVzdGF0ZSBMZXR0ZXIgQ29kZQAAAAAAAAA="}},
+    {"key":{"type":"DdEnumCrossReferenceType", "key":"5349474E524F4C45"}, "data":{"size":38, "data":"AAAUU0lHTlJPTEWEw1NpZ25lciBSb2xlAAAAAAAAAAAAAAAAAAA="}}
+  ]
+}
