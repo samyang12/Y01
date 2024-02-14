@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "./FD/A20282"
+    },
+    {
+      "path": "./FD/AAA"
+    },
+    {
+      "path": "./FD/ADSTFUNC"
+    }
+  ],
+  "settings": {
+    "branch": "Y_FD_4A_forms",
+    "comment": "",
+    "isNewBranch": false,
+    "wkfx.allowedEnums": []
+  }
+}
